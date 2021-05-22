@@ -123,7 +123,7 @@ footer {
 .box_content {
   display: flex;
   width: 906px;
-  background: url(images/bg.png);
+  background: url(./images/bg.png);
   margin: auto;
   justify-content: space-between;
   align-items: center;
